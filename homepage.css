@@ -55,3 +55,7 @@ body {
     background-image: url('content/backgroundImage.jpg');
     background-size: contain;
 }
+
+p {
+  text-shadow:  5px 5px #213a7c;
+}
